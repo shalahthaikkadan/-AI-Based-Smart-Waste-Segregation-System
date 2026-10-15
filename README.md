@@ -2,7 +2,7 @@
 
 An AI-powered smart waste segregation system designed to automatically identify and sort different types of waste using computer vision, Raspberry Pi, sensors, and motor-based mechanisms.
 
-The project combines **Artificial Intelligence, Computer Vision, Raspberry Pi, Python, and automation** to improve the process of waste classification and segregation.
+The project combines **Artificial Intelligence, Computer Vision, Raspberry Pi, Python, and automation** to improve the process of waste classification and segregation
 
 ---
 
